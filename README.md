@@ -10,6 +10,7 @@
 - MultiLineString
 - MultiPolygon
 - GeometryCollection
+
 ![](02.JPG)
 
 
